@@ -75,3 +75,4 @@ updater.uptodate(function( uptodate ) {
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/clexit/github-update-checker/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
+* [Quoteish](https://www.quoteish.org/) - A collection of famous quotes and sayings.
